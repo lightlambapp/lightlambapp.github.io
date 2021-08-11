@@ -1,18 +1,17 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /about
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Light Lamb is developed by a solo independent developer, who  shoots both digital and film as a hobby.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Metering light is just the start. Light Lamb is intended to be a film photographers' companion.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+We would love to hear about what you think about Light Lamb. How you use it, what you like, what you don't like, what problems you are having, what you would like to see added.
 
+Talk to us:
 
-[jekyll-organization]: https://github.com/jekyll
+<div markdown="1">
+{%- include social.html -%}
+</div>
