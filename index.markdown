@@ -4,19 +4,26 @@ layout: default
 
 <div class="index" markdown="1">
 
-![Light Lamb app screenshot](/assets/home_header.png){:class="img-responsive"}
+![Light Lamb app general screenshot](/assets/home_header.png){:class="img-responsive"}
 
-<div class="coming-soon" markdown="1">
+{:.coming-soon}
 # Coming soon
-</div>
+
+<hr>
 
 # Light Lamb
 
 Light Lamb is a free photographers' light meter app for iOS. Designed with direct one-handed control and computer assistance in mind. It’s like getting an auto mode on your manual film camera.
 
+![Exposure settings suggested by Light Lamb](/assets/settings_unlocked.png){:class="img-responsive assisted-manual"}
+
 ## Assisted manual control
 
 If the manual settings entered are too dark or too bright for the scene, Light Lamb can suggest changes to ensure the perfect exposure.
+
+Want to shoot at f/8 and 1/125s? Or using ISO 400 film but still want to open up the aperture as much as you could? Just set it to what you want and Light Lamb will handle the rest.
+
+Lock the ISO to match the film you are using, or unlock it to check what ISO to use.
 
 ## Safe shutter-aware
 
@@ -24,7 +31,7 @@ You can provide a preferred slowest shutter speed and we will try to match it. I
 
 ## Spot metering
 
-Zoom in to focus the measurements to small areas in contrasting scenes.
+Zoom in 5x to focus the measurements to small areas in contrasting scenes.
 
 ## Match your equipment
 
