@@ -4,7 +4,7 @@ layout: default
 
 <div class="index" markdown="1">
 
-![Light Lamb app general screenshot](/assets/home_header.png){:class="img-responsive"}
+![Light Lamb app general screenshot](/assets/home_header.jpg){:class="img-responsive"}
 
 [![Download on the App Store](/assets/app_store.png){:class="img-responsive app-store"}](https://apps.apple.com/us/app/light-lamb/id1580207650)
 
@@ -14,7 +14,7 @@ layout: default
 
 Light Lamb is a free photographers' light meter app for iOS. Designed with direct one-handed control and computer assistance in mind. It’s like getting an auto mode on your manual film camera.
 
-![Exposure settings suggested by Light Lamb](/assets/settings_unlocked.png){:class="img-responsive assisted-manual"}
+![Exposure settings suggested by Light Lamb](/assets/settings_unlocked.jpg){:class="img-responsive assisted-manual"}
 
 ## Assisted manual control
 
