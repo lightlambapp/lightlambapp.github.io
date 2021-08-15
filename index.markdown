@@ -6,8 +6,7 @@ layout: default
 
 ![Light Lamb app general screenshot](/assets/home_header.png){:class="img-responsive"}
 
-{:.coming-soon}
-# Coming soon
+[![Download on the App Store](/assets/app_store.png){:class="img-responsive app-store"}](https://apps.apple.com/us/app/light-lamb/id1580207650)
 
 <hr>
 

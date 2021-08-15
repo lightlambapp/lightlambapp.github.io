@@ -32,13 +32,11 @@ h2 {
 }
 
 .index {
-  .coming-soon {
-    text-align: center;
-    background-color: #424242;
-    border-radius: 0.5em;
-    margin: 1rem 0 3rem 0;
-    color: #ffffff;
-    padding: 0.5em 0;
+  .app-store {
+    width: 160px;
+    height: 54px;
+    display: block;
+    margin: 1rem auto 3rem auto;
   }
 
   h1, h2 {
