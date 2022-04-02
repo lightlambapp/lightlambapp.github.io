@@ -10,12 +10,15 @@ We, the Light Lamb app, do not want your data. We will always try to minimize th
 
 We currently do not collect any data.
 
-We need to use your device's camera to read the light. We do not keep any of the images unless you save it as a memo, in which case we save it on your device only.
+Permissions we ask for in the app:
+- Camera: for reading the light level and capturing memos
+- Adding photos: for saving memo picture notes to your photo library
+- Location: for adding location information to memos
 
-The Light Lamb app works works completely offline. Nothing is sent to our servers nor third party servers.
+Nothing is sent to us or any third party in the app. We do not keep any information unless you save them as a memo.
 
-As features are added to the app in the future, we might allow you to save some of your data. The app will always be clear about where data are kept and what's going to happen with your data. This privacy policy will be updated to reflect the changes.
+As features are added to the app in the future, we might allow you to save some of your data. We will always be clear about where data are kept and what's going to happen with your data. This privacy policy will be updated to reflect the changes.
 
 If you have any more questions, please contact us at [lamb@lightlamb.com](mailto:lamb@lightlamb.com).
 
-Last updated: 2022-02-28 for memo feature added in version 1.1.0.
+Last updated: 2022-04-02 for memo feature with location added in version 1.2.0.

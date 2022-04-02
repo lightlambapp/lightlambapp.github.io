@@ -18,8 +18,8 @@ Light Lamb is a free photographers' light meter app for iOS. Designed with direc
 
 ![List of memos of exposure settings with a photo of the scene](/assets/memo.jpg){:class="img-responsive"}
 
-## Keep a memo <span class="new-tag">New in 1.1.0</span>
-Keep a memo of the settings used, including a photo of the scene. Export it as a beautiful picture note that you can post to your social media. The picture note dimensions are formatted in 4:5, ideal for Instagram.
+## Keep a memo <span class="new-tag">Updated in 1.2.0</span>
+Keep a memo of the settings used, including a photo of the scene and the location. Export it as a beautiful picture note that you can post to your social media. The picture note dimensions are formatted in 4:5, ideal for Instagram.
 
 <div class="float-reset"></div>
 
