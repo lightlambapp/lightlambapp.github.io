@@ -25,7 +25,7 @@ email: lamb@lightlamb.com
 #   line in _config.yml. It will appear in your document head meta (for
 #   Google search results) and in your feed.xml site description.
 description: >-
-  Light Lamb is a free photographers' light meter app for iOS. Designed with direct one-handed control and computer assistance in mind. It’s like getting an auto mode on your manual film camera.
+  Light Lamb is a free photographers’ light meter app for iOS. You can let Light Lamb decide everything for you like getting an auto mode for your manual film camera, or you could have full manual control of the parameters, or whatever you want in between.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.lightlamb.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: lightlambapp
