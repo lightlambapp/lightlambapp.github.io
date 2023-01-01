@@ -58,7 +58,7 @@ a.site-title {
     margin-bottom: 10px;
   }
 
-  img.assisted-manual {
+  img.main-screenshot {
     width: 50%;
     float: right;
     margin: calc(2em - 15px) 0 1em 1.5em;
@@ -80,7 +80,7 @@ a.site-title {
     }
 
     img {
-      width: 50%;
+      width: 30%;
       float: right;
       margin: 0 0 0 1.5em;
     }
@@ -95,17 +95,17 @@ a.site-title {
 
 @media (max-width: 700px) {
   .index {
-    img.assisted-manual {
+    img.main-screenshot {
       width: calc(100% - 4em);
       float: none;
       margin: 2em 1em 0 2em;
     }
     .new-feature {
-      img {
-        width: calc(100% - 4em);
-        float: none;
-        margin: 1em 2em 1em 2em;
-      }
+      // img {
+      //   width: calc(100% - 4em);
+      //   float: none;
+      //   margin: 1em 2em 1em 2em;
+      // }
 
       .new-tag {
         display: block;

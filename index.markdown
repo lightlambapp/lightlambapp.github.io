@@ -12,39 +12,48 @@ layout: default
 
 # Light Lamb
 
-Light Lamb is a free photographers' light meter app for iOS. Designed with direct one-handed control and computer assistance in mind. It’s like getting an auto mode on your manual film camera.
+Light Lamb is a free photographers’ light meter app for iOS. You can let Light Lamb decide everything for you like getting an auto mode for your manual film camera, or you could have full manual control of the parameters, or whatever you want in between.
+
 
 <div class="new-feature" markdown="1">
 
-![List of memos of exposure settings with a photo of the scene](/assets/memo.jpg){:class="img-responsive"}
+![Histogram of the scene shown on the viewfinder](/assets/histogram.jpg){:class="img-responsive"}
 
-## Keep a memo <span class="new-tag">Updated in 1.2.0</span>
-Keep a memo of the settings used, including a photo of the scene and the location. Export it as a beautiful picture note that you can post to your social media. The picture note dimensions are formatted in 4:5, ideal for Instagram.
+## Now with histogram <span class="new-tag">Updated in 1.3.0</span>
+Use the histogram to make sure the scene is exposed just like how you envisioned.
 
 <div class="float-reset"></div>
 
 </div>
 
-![Exposure settings suggested by Light Lamb](/assets/settings_unlocked.jpg){:class="img-responsive assisted-manual"}
 
-## Assisted manual control
+![Exposure settings suggested by Light Lamb](/assets/settings_unlocked.jpg){:class="img-responsive main-screenshot assisted-manual"}
 
-If the manual settings entered are too dark or too bright for the scene, Light Lamb can suggest changes to ensure the perfect exposure.
+## From full auto to assisted manual control
+In most cameras if you pick a parameter like aperture, shutter, or ISO, the camera would stick to your chosen values even if it's too dark or too bright for the scene.
 
-Want to shoot at f/8 and 1/125s? Or using ISO 400 film but still want to open up the aperture as much as you could? Just set it to what you want and Light Lamb will handle the rest.
+The reason we made Light Lamb is to have a light meter that would suggest different settings if the chosen parameters are not suitable.
 
-Lock the ISO to match the film you are using, or unlock it to check what ISO to use.
+For example, you can keep your settings at f/8 and 1/125 for deep depth of field and fast shutter speed, but if it's too dark, Light Lamb would suggest brighter values to make sure it's correctly exposed.
+
+Or say you want to set the aperture to f/1.4 for shallow depth of field, and if it's bright outside and the shutter is already at its fastest speed, Light Lamb would suggest a smaller aperture.
+
+Just set the parameters to what you want and Light Lamb will handle the rest.
 
 ## Safe shutter-aware
-
-Pick a preferred slowest shutter speed you want and Light Lamb will try to match it. If the scene is too dark, Light Lamb automatically pick a slower shutter speed to achieve the correct exposure.
+Pick a preferred slowest shutter speed you want and Light Lamb will match it. If the scene is too dark, Light Lamb automatically pick a slower shutter speed beyond the safe shutter to achieve the correct exposure.
 
 ## Spot metering
-
 Zoom in 5x to focus the measurements to small areas in contrasting scenes.
 
 ## Match your equipment
+Choose the range and increment of ISO, aperture, and shutter speed to match your equipment. Choose between whole-stop, half-stop, and one-third EV increments for each parameter.
 
-Choose the range of ISO, aperture, and shutter speed to match your equipment. Choose between whole-stop, half-stop, and one-third EV increments for each parameter.
+![List of memos of exposure settings with a photo of the scene](/assets/memo.jpg){:class="img-responsive main-screenshot screenshot-memo"}
+
+## Keep a memo
+Keep a memo of the settings used, including a photo of the scene and the location. Export it as a beautiful picture note formatted in 4:5 aspect ratio, great for posting to Instagram along with your photo.
+
+<div class="float-reset"></div>
 
 <div>
