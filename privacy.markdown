@@ -19,6 +19,6 @@ Nothing is sent to us or any third party in the app. We do not keep any informat
 
 As features are added to the app in the future, we might allow you to save some of your data. We will always be clear about where data are kept and what's going to happen with your data. This privacy policy will be updated to reflect the changes.
 
-If you have any more questions, please contact us at [lamb@lightlamb.com](mailto:lamb@lightlamb.com).
+If you have any more questions, please contact us at [lightlamb.com](https://lightlamb.com/about).
 
-Last updated: 2022-04-02 for memo feature with location added in version 1.2.0.
+Last updated: 2025-03-16 for updated contact information.
