@@ -28,7 +28,6 @@ description: >-
   Light Lamb is a free photographers’ light meter app for iOS. You can let Light Lamb decide everything for you like getting an auto mode for your manual film camera, or you could have full manual control of the parameters, or whatever you want in between.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.lightlamb.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: lightlambapp
 instagram_username:  lightlambapp
 
 # Build settings
